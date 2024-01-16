@@ -78,16 +78,19 @@ font-weight: 400;
 line-height: 26px;
   }
   .pramary-btn{
+    color:#ffff;
  width: 124px;
 height: 52px;
 flex-shrink: 0;
 border-radius: 8px;
 background: #FFF;
 margin-left: 15px;
+font-size: 45px;
 
 
   }
 .pramary{
+    color: #ffff;
     width: 174px;
     height: 52px;
     flex-shrink: 0;
@@ -332,7 +335,105 @@ margin-left: 20px;
  }
 .containar-Tour-Satorini-{
 position: relative;
+}
+.last{
+  margin-left: 500px;
+  margin-top: 20px;
+}
+.containa-last-a-simpole{
+    display: flex;
+margin-top: 50px;
+padding: 50px;
 
+}
+.r-A-Simple-Perf{
+    width: 100%;
+}
+.containa-last-a-simpole h1{
+    color: #131318;
+font-family: Mulish;
+font-size: 40px;
+font-weight: 800;
+line-height: 60px; 
+}
+.containa-last-a-simpole video {
+ margin-left: 200px;
+ width: 500px;
+ height: 100%;
+ border-radius: 16px solid red;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.jjjjjj{
+    margin-top: 30px;
+}
+.container-from{
+display: flex;
+
+}
+.from{
+    padding: 30px;
+    width: 474px;
+    height: 422px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    border: 1px solid #FF5400;
+}
+.from input{
+width: 393px;
+height: 52px;
+flex-shrink: 0;
+border-radius: 8px;
+background: rgba(19, 19, 24, 0.05);
+}
+.from button{
+ width: 393px;
+height: 52px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #FF5400;
+}
+.container-from img{
+width: 672px;
+height: 422px;
+flex-shrink: 0;
+border-radius: 16px;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.container-from .pramary-1{
+ width: 324px;
+height: 120px;
+transform: rotate(-19.628deg);
+flex-shrink: 0;
+border-radius: 16px;
+background: #FF5400;
+position: absolute;
+margin-top: -170px;
+margin-left: 350px;
+color: #fff;
+}
+.positionnn{
+    position: relative;
+}
+.footer-containar{
+    text-align: center;
+    background: rgba(2, 2, 30, 0.05);
+    width: 100%;
+    height: 400px;
+    align-items: center;
+    margin-top: 50px;
+  
+}
+.footer-last.ramjan{
+    display: flex;
+   text-align: center;
+}
+.footer-last p, ,i{
+    color:#131318;
+   
+}
+.footer-last {
+   padding: 100px;
+   margin-left: 100px;
 }
 
 
