@@ -141,6 +141,77 @@ margin-left: 0px;
     height: 284px;
     flex-shrink: 0;
   }
+.cav-seent ul{
+    display: flex;  
+}
+.cav-seent ul li{
+    margin-left: 20px;
+
+    list-style-type: none;
+}
+.cav-seent ul i{
+margin-left: 15px;
+
+}
+.nav-description h3{
+    color: #FF5400;
+font-family: Mulish;
+font-size: 20px;
+font-weight: 800;
+}
+.secent-section{
+margin-left: 120px;
+margin-top: -400px;
+position: absolute;
+border-radius: 16px;
+border: 2px solid #FFF;
+border: 2px solid #FFF;
+background: rgba(255, 255, 255, 0.80);
+width: 279px;
+height: 300px;
+flex-shrink: 0;
+padding: 50px;
+}
+.secent-section-2{
+margin-left: 120px;
+ margin-top: -400px;
+ position: absolute;
+ border-radius: 16px;
+ border: 2px solid #FFF;
+ border: 2px solid #FFF;
+ background: rgba(255, 255, 255, 0.80);
+ width: 279px;
+ height: 300px;
+ flex-shrink: 0;
+ padding: 50px;
+ 
+ }
+.containar-Tour-Satorini-{
+position: relative;
+}
+.last{
+  margin-left: 500px;
+  margin-top: 20px;
+}
+
+.img-p-add img{
+  width: 100%;
+  height: 600px;
+  margin-top: 20px;
+}
+.ramjankabir{
+  margin-right:500px;
+}
+
+
+
+
+
+
+
+
+
+
   
   .secent-contaenar{
     
